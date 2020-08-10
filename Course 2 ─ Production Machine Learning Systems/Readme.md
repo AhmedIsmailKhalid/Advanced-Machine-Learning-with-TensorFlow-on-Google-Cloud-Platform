@@ -1,2 +1,3 @@
-Contains all the quizes and the course certificate for this Course 2 of 5 of the Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
-All the quizes are webpages
+Contains all the quizes, exercises and the course certificate for this Course 2 of 5 of the Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
+All the exercises are notebook files (.ipynb) 
+All the quizes are webpages.
