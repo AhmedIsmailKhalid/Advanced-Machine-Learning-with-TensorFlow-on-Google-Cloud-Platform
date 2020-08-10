@@ -1,3 +1,0 @@
-Contains all the quizes and the course certificate for this Course 4 of 5 of the Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization 
-All
-All the quizes are webpages
